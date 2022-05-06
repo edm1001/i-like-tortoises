@@ -12,4 +12,4 @@ When user scrolls down they  time blocks for standard business hours
 - When I view the time blocks for that day each time block is color-coded to indicate whether it is in the past, present, or future
 - When user click into a time block they can enter an event
 - User can click the save button and  the event is saved in local storage
-- When user refresh the page the saved events persist
+- When user refresh the page the saved events persits and stays on the page
