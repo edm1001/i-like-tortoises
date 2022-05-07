@@ -14,4 +14,4 @@ When user scrolls down they  time blocks for standard business hours
 - User can click the save button and  the event is saved in local storage
 - When user refresh the page the saved events persits and stays on the page!
  
-[LiveServer](https://user-images.githubusercontent.com/95250008/167231476-73884142-654e-42c8-b341-dc46bc357c86.png)
+(https://user-images.githubusercontent.com/95250008/167231476-73884142-654e-42c8-b341-dc46bc357c86.png)
