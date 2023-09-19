@@ -1,11 +1,25 @@
 # Work Day Scheduler Starter Code
 
-## Summary
-- this is a Schedule app for users to add plans throughout their day for time management.
+  ## Table of Contents
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributors](#Contribution)
+* [Tests](#Tests)
+* [Question](#Question)
+* [License](#license)
 
+## Description
 
-## Expectations
+This is a Schedule app for users to add plans throughout their day for time management.
 
+---
+## Installation
+
+Visit [work-day-scheduler]()
+
+---
+## Usage
 - A daily planner to create a schedule
 - When I open the planner the current day  displayed at the top of the calendar
 When user scrolls down they  time blocks for standard business hours
