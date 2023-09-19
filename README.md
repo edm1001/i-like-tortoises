@@ -41,4 +41,4 @@ Contact me through either:
 [GitHub](https://github.com/edm1001)
 [Email: edmerfranciz@gmail.com](mailto:edmerfranciz@gmail.com)
 
-![LivePhoto](C:\Users\edmer\Class-Challenges\challenge5-WorkDay-scheduler\super-disco\assets\images\LiveServer.png)
+![LivePhoto](https://github.com/edm1001/i-like-tortoises/blob/509b63ccf74fb3fdc2d4a6e6a2a0c6e6f681eaa1/assets/images/LiveServer.png)
